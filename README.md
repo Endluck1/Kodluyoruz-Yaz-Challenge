@@ -6,4 +6,4 @@
 
 3.)Hard: Bir tam sayı dizisi olşturdum ve  Kullanıcıdan aldığım hedef sayı doğrultusunda sayı dizisinin içinden sayılar seçip toplayarak hedef sayıya ulaşmasını sağladım
 
-# challenge 14
+
