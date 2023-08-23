@@ -20,3 +20,56 @@
 
 💪🏻Hard: Bir yüzme havuzunda 2 adet su girişi, 1 adet su çıkışı vardır. İlk su girişi havuzu 10 saatte doldururken, ikinci su girişi havuzu 15 saatte doldurmaktadır. Havuzun kendiliğinden boşalma hızı ise 30 saatte bir doludur. Eğer havuz boşken, her iki su girişi de açılırsa havuz ne kadar sürede dolar?😀
 
+# challenge 11
+
+🙌🏼 Easy: Kullanıcıdan aldığınız bir sayının faktöriyelini hesaplayan kod parçacığını yazmanızı istiyorum.
+
+🌟Medium:  Bir dizi oluşturup bu sayıların ortalamasını hesaplayan bir kod parçacığı yazar mısın?
+
+💪🏻Hard: Bir sıralanmış dizide (örneğin, artan sırada) hedef bir sayının kaç kez tekrar ettiğini bulan bir kod parçacığı yazar mısın?
+
+# challenge 10 
+
+🙌🏼 Easy: Bir dizi tanımladıktan sonra bu dizinin içinden en büyük sayıyı bulan kod parçacığını yazar mısın?
+
+🌟Medium:  Bir dizi oluşturup içindeki sayıların en büyük ve en küçük değerlerini bulan ve ekrana yazdıran bir kod parçacığı yazar mısınız?
+
+💪🏻Hard: Kullanıcının girdiği bir sayının tam bölenlerinin toplamını hesaplayan bir kod parçacığı yazınız.
+
+# challenge 9
+
+🙌🏼 Easy: Kullanıcıdan aldığınız sayının tek mi çift mi olduğunu ekrana yazdıran bir kod parçacığı yazar mısın?
+
+🌟Medium: Bir dizi oluşturup içindeki çift sayıların toplamını hesaplayan bir kod parçacığı yazar mısınız?
+
+💪🏻Hard: Kullanıcıdan bir cümle girmesini ve bu cümlenin içinde ikileme olup olmadığını bulan bir kod parçası yazmanızı istiyorum.😀(Not: burada ikilemeleri sadece arka arkaya yazılmış aynı kelimeler olarak düşünmenizi istiyorum.)
+
+# challenge 8
+
+🙌🏼 Easy: Kullanıcıdan aldığın sayının karesini hesaplayarak ekrana yazdıran kod parçacığını yazar mısın?
+
+🌟Medium:  Oluşturduğunuz bir dizinin medyanını hesaplayan bir kod parçacığı yazar mısınız? 🗝️ Medyan: Dizideki sayıları sıralandığında ortada bulunan değer.🤗
+
+💪🏻Hard: Kullanıcıdan aldığınız bir sayının Armstrong sayısı olup olmadığını kontrol eden bir kod parçacığı yazar mısınız? (Armstrong sayısı: Basamaklarının üçüncü kuvvetinin toplamı, sayıya eşit olan sayılardır.)🗝️ 407 için = (4*4*4)+(7*7*7)=407 bir armstrong sayısıdır.🤗
+
+# challenge 7
+
+🙌🏼 Easy: Kullanıcıdan alınan bir kelimenin uzunluğunu hesaplayan bir kod parçacığı yazar mısın?
+
+🌟Medium:  Kullanıcıdan aldığınız bir sayının basamaklarının toplamını hesaplayan bir kod parçacığı yazar mısın?
+
+💪🏻Hard: Kullanıcıdan aldığınız bir metnin içindeki sesli harfleri sayan ve bunu kullanıcıya geri dönen bir kod parçacığı yazar mısın?
+
+# challenge 5
+
+🙌🏼 Easy: Kullanıcıdan aldığın iki sayının toplamını ekrana yazdıran bir kod parçacığı yazar mısın?
+
+🌟Medium:  Kullanıcıdan alınan bir metindeki kelime sayısını hesaplayan bir kod parçacığı yazar mısın?
+
+💪🏻Hard: Kullanıcının girdiği bir sayı karekökten çıkıyorsa çıktığı halini eğer çıkmıyorsa karekökten tam olarak çıkmıyor hata mesajı veren kod parçacığını yazar mısın?🗝️   Kullanıcı Sayı:64	       Cevap:8	       Kullanıcı Sayı:72	       Cevap: Karekökten tam olarak çıkmıyor.
+
+
+
+
+
+
